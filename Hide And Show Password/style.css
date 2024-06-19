@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    background-color: cadetblue;
+    /* background: #250057; */
+
+}
+#box{
+    padding-left: 5px;
+    /* padding: 5px; */
+    margin-top: 15rem;
+    display: flex;
+    align-items: center;
+
+    width: 22rem;
+    height: 50px;
+    /* background-color: aqua; */
+    background-color: white;
+
+}
+#eye{
+    cursor: pointer;
+    height: 20px;
+    margin-left: 6.5rem;
+}
+input{
+    border: none;
+    outline: none;
+    width: 13rem;
+}
